@@ -1,4 +1,4 @@
 # Mpp
 M64++
 
-![logo](Assets/Logo.png)
+![logo](Assets/Logo_Social.png)
